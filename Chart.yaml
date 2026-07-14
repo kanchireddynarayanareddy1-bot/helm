@@ -1,5 +1,5 @@
 apiVersion: v2
 name: roboshop
 version: 1.0.0 # chart version of the chart
-appVersion: nginx
+appVersion: trixie
 description: A Helm chart for Kubernetes to deploy the Roboshop application
